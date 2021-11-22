@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "specialist": "Ophthalmology",
+        "name": "Endoran",
+        "img": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg"
+    },
+    {
+        "id": 2,
+        "specialist": "Ophthalmology",
+        "name": "Cardon ",
+        "img": "https://image.freepik.com/free-photo/portrait-happy-young-medical-doctor-with-stethoscope-smiling-showing-thumb-up-isolated-white-wall_171337-99773.jpg"
+    },
+    {
+        "id": 3,
+        "specialist": "Ophthalmology",
+        "name": "Deni",
+        "img": "https://img.freepik.com/free-photo/portrait-young-woman-doctor-posing-isolated-blue-wall-holding-pills-showing-thumbs-up-gesture_171337-71568.jpg?size=338&ext=jpg"
+    },
+    {
+        "id": 4,
+        "specialist": "Cardiac Surgery",
+        "name": "Herok",
+        "img": "https://image.freepik.com/free-photo/cheerful-doctor-gesturing-thumb-up_23-2147896156.jpg"
+    },
+    {
+        "id": 5,
+        "specialist": "Cardiac Surgery",
+        "name": "Osan",
+        "img": "https://image.freepik.com/free-photo/happy-smiling-female-doctor-with-thumbs-up-gesture-isolated-white_231208-13017.jpg"
+    },
+    {
+        "id": 6,
+        "specialist": "Cardiac Surgery",
+        "name": "Balondon",
+        "img": "https://image.freepik.com/free-photo/young-doctor-caucasian-man-isolated-white-background-wearing-doctor-gown-with-thumb-up_1368-244781.jpg"
+    },
+    {
+        "id": 7,
+        "specialist": "Heart disease",
+        "name": "Clark",
+        "img": "https://image.freepik.com/free-photo/young-surgeon-doctor-caucasian-woman-isolated-white-background-showing-lifting-finger-sign-best_1368-244334.jpg"
+    },
+    {
+        "id": 8,
+        "specialist": "Heart disease",
+        "name": "Asley",
+        "img": "https://image.freepik.com/free-photo/african-american-medical-doctor-man-with-mask-isolated-gray-background_231208-2230.jpg"
+    },
+    {
+        "id": 9,
+        "specialist": "Heart disease",
+        "name": "Hitmay",
+        "img": "https://image.freepik.com/free-photo/medical-workers-healthcare-covid-19-vaccination-concept_1258-19616.jpg"
+    },
+    {
+        "id": 10,
+        "specialist": "Dentist",
+        "name": "Thomas",
+        "img": "https://image.freepik.com/free-photo/healthcare-workers-coronavirus-covid-19-pandemic-insurance-concept-close-up-serious-young-doctor-white-coat-glasses-listen-closely-patient-cross-arms-chest-holding-stethoscope_1258-58654.jpg"
+    },
+    {
+        "id": 11,
+        "specialist": "Dentist",
+        "name": "Dussen",
+        "img": "https://image.freepik.com/free-photo/medium-shot-doctor-with-crossed-arms_23-2148868176.jpg"
+    },
+    {
+        "id": 12,
+        "specialist": "Dentist",
+        "name": "Mickel",
+        "img": "https://image.freepik.com/free-photo/front-view-covid-recovery-center-female-doctor-with-stethoscope_23-2148847896.jpg"
+    }
+]

@@ -1,0 +1,22 @@
+.allservice img{
+width: 400px;
+height: 350px;
+border-radius: 10px;
+}
+
+.service-detail{
+    width: 400px;
+    padding: 5px;
+    
+}
+/* .service-detail:hover{
+    background-color: rgb(180, 222, 235);
+    box-shadow: 10px 10px 10px rgb(165, 165, 165);
+    
+} */
+.allservice:hover{
+    background-color: rgb(180, 222, 235);
+    box-shadow: 10px 10px 10px rgb(165, 165, 165);
+    width: 425px;
+    border-radius: 15px;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "charge": "$500",
+        "name": "Emergency",
+        "description": "Emergency medical services (EMS), also known as ambulance services or paramedic services, are emergency services  for serious illness and injuries and transport to definitive care.",
+        "img": "https://t3.ftcdn.net/jpg/02/14/40/44/240_F_214404450_zZk0oH6Tg3LT5ykZD2L1GA1BJtYxRikG.jpg"
+    },
+    {
+        "id": 2,
+        "charge": "$1000",
+        "name": "Cardiac Surgery",
+        "description": "The department of cardiac surgery functions with a core team of best cardiac/ heart surgeons, interventional cardiologists, electrophysiologists in Dhaka, Bangladesh.",
+        "img": "https://as2.ftcdn.net/v2/jpg/02/17/27/37/1000_F_217273740_67gAVWWCW5ppByvWTdojoN9RikqZh1Pd.jpg"
+    },
+    {
+        "id": 3,
+        "charge": "$700",
+        "name": "Dental Care",
+        "description": "Dentists and oral surgeons are often appointed to a hospital's medical staff to provide dental services to emergency department patients and inpatients .",
+        "img": "https://as2.ftcdn.net/v2/jpg/01/41/98/69/500_F_141986995_eYtChd43tauQnbhBggyDPwFAgNqMsFuM.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Heart disease",
+        "charge": "$2000",
+        "description": "Cardiac health awareness programmes · Care following a heart attack or other cardiac failure · Angiograms · Cardiac catheterisation procedures .",
+        "img": "https://image.freepik.com/free-photo/top-view-world-heart-day-concept-with-stethoscope_23-2148631023.jpg"
+    },
+    {
+        "id": 5,
+        "charge": "$800",
+        "name": "Ophthalmology",
+        "description": "The Department of Ophthalmology at CARE Hospitals performs the most advanced surgical procedures, including surgical and reconstructive techniques.",
+        "img": "https://image.freepik.com/free-photo/man-having-ophthalmology-appointment_23-2149082494.jpg"
+    },
+    {
+        "id": 6,
+        "charge": "$200",
+        "name": "Blood Test",
+        "description": "Nurses often wake patients up to get blood tests. Poor sleep can affect how you heal. You may need a blood test every day if: You are in intensive care.",
+        "img": "https://image.freepik.com/free-photo/close-up-doctor-holding-blood-sample_23-2148747867.jpg"
+    }
+]
